@@ -3,16 +3,14 @@
     "id": "1A2B3C",
     "title": "Ejemplo",
     "content": "Contenido...",
-    "imageName": "https://raw.githubusercontent.com/usuario/repositorio/main/imagen.jpg",
+    "imageURL": "https://raw.githubusercontent.com/usuario/repositorio/main/imagen.jpg",
     "date": "2024-05-14T12:00:00Z"
-  }
-],
-[
+  },
   {
     "id": "1A2B3C",
     "title": "Ejemplo",
     "content": "Contenido...",
-    "imageName": "https://raw.githubusercontent.com/usuario/repositorio/main/saludable.png",
+    "imageURL": "https://raw.githubusercontent.com/usuario/repositorio/main/saludable.png",
     "date": "2024-05-14T12:00:00Z"
   }
 ]
