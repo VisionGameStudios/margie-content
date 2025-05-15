@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Salchichas de Pavo San Rafael",
+    "description": "Salchichas de pavo elaboradas con carne de pavo",
+    "ingredients": [
+      "Carne de pavo",
+      "Agua",
+      "Proteína de soya",
+      "Fécula",
+      "Fibra de soya",
+      "Harina de mostaza",
+      "Sal yodada",
+      "Dextrosa",
+      "Fosfato de Sodio",
+      "Cloruro de potasio",
+      "Saborizantes",
+      "Eritorbato de Sodio",
+      "Extracto de especias",
+      "Diacetato de Sodio",
+      "Nitrito de Sodio",
+      "Colorante color Carmín"
+    ],
+    "barcodes": ["7501498900016"]
+  },
+  {
+    "name": "Salchicha de Pavo tipo Frankfort Bafar",
+    "description": "Salchicha de pavo tipo frankfort elaborada con carne de pavo",
+    "ingredients": [
+      "Carne de pavo",
+      "Agua",
+      "Almidón Modificado",
+      "Proteína de soya",
+      "Condimentos",
+      "Sal yodada",
+      "Conservador",
+      "Fosfatos",
+      "Eritorbato de Sodio",
+      "TBHQ",
+      "Colorante",
+      "Nitrito de Sodio",
+      "Vitamina B12"
+    ],
+    "barcodes": ["7501518463415"]
+  }
+  // ...continúa con los demás alimentos siguiendo el mismo formato...
+]
