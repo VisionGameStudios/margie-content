@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1e1e1e1e-1111-1111-1111-111111111111",
+    "name": "Hotcakes Esponjosos",
+    "description": "Hotcakes suaves y esponjosos, perfectos para el desayuno.",
+    "instructions": [
+      {
+        "title": "Prepara los ingredientes",
+        "description": "Reúne harina, huevos, leche y mantequilla."
+      },
+      {
+        "title": "Mezcla los ingredientes secos",
+        "description": "En un bowl, combina la harina, el azúcar y el polvo para hornear."
+      },
+      {
+        "title": "Agrega los ingredientes líquidos",
+        "description": "Añade los huevos y la leche, mezcla hasta integrar."
+      },
+      {
+        "title": "Cocina los hotcakes",
+        "description": "Vierte la mezcla en un sartén caliente y cocina hasta que salgan burbujas, voltea y termina de cocer."
+      },
+      {
+        "title": "Sirve y disfruta",
+        "description": "Acompaña con miel, frutas o lo que prefieras."
+      }
+    ],
+    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta1.jpg",
+    "ingredients": [
+      "1 taza de harina",
+      "2 huevos",
+      "1/2 taza de leche",
+      "2 cdas de mantequilla derretida",
+      "2 cdas de azúcar",
+      "1 cdita de polvo para hornear"
+    ],
+    "isPremium": false,
+    "stepImages": [
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso1.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso2.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso3.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso4.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso5.jpg"
+    ]
+  },
+  {
+    "id": "2e2e2e2e-2222-2222-2222-222222222222",
+    "name": "Carne Guisada Gourmet",
+    "description": "Un platillo especial para sorprender, con carne suave y salsa deliciosa.",
+    "instructions": [
+      {
+        "title": "Prepara la carne",
+        "description": "Corta la carne en cubos y salpimienta al gusto."
+      },
+      {
+        "title": "Sofríe la cebolla",
+        "description": "En una olla, sofríe la cebolla picada hasta que esté transparente."
+      },
+      {
+        "title": "Agrega la carne",
+        "description": "Incorpora la carne y cocina hasta que se dore por todos lados."
+      },
+      {
+        "title": "Añade tomate y condimentos",
+        "description": "Agrega los tomates picados y tus especias favoritas, cocina a fuego lento."
+      },
+      {
+        "title": "Sirve caliente",
+        "description": "Acompaña con arroz o pan artesanal."
+      }
+    ],
+    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta2.jpg",
+    "ingredients": [
+      "200g de carne de res",
+      "1 cebolla",
+      "2 tomates",
+      "Sal y pimienta",
+      "Especias al gusto"
+    ],
+    "isPremium": true,
+    "stepImages": [
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso1.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso2.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso3.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso4.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso5.jpg"
+    ]
+  },
+  {
+    "id": "3e3e3e3e-3333-3333-3333-333333333333",
+    "name": "Galletas de Avena Saludables",
+    "description": "Galletas nutritivas y deliciosas, ideales para el desayuno o snack.",
+    "instructions": [
+      {
+        "title": "Precalienta el horno",
+        "description": "Lleva el horno a 180°C mientras preparas la mezcla."
+      },
+      {
+        "title": "Mezcla los ingredientes",
+        "description": "Combina avena, azúcar y mantequilla en un bowl."
+      },
+      {
+        "title": "Forma las galletas",
+        "description": "Haz bolitas y colócalas en una charola con papel encerado."
+      },
+      {
+        "title": "Hornea",
+        "description": "Cocina por 20 minutos o hasta que estén doradas."
+      },
+      {
+        "title": "Deja enfriar",
+        "description": "Espera unos minutos antes de servir."
+      }
+    ],
+    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta3.jpg",
+    "ingredients": [
+      "3 tazas de avena",
+      "1 taza de azúcar",
+      "1/2 taza de mantequilla"
+    ],
+    "isPremium": false,
+    "stepImages": [
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso1.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso2.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso3.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso4.jpg",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso5.jpg"
+    ]
+  }
+]
