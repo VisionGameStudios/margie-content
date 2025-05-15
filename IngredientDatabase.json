@@ -887,5 +887,13 @@
     "description": "Concentrado natural de las hojas del romero. Funciona como conservador, antioxidante y aromatizante. Además, aporta beneficios saludables por sus compuestos naturales.",
     "isHealthy": true,
     "points": 9
+  },
+  ,
+  {
+    "id": "x8x8x8x8-7777-4x8x-8x8x-8x8x8x8x8x8x",
+    "name": "Carne de cerdo",
+    "description": "Carne magra proviniente del cerdo",
+    "isHealthy": true,
+    "points": 8
   }
 ]
