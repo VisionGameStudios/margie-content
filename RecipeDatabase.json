@@ -25,7 +25,7 @@
         "description": "Acompaña con miel, frutas o lo que prefieras."
       }
     ],
-    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta1.png",
+    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/receta1.png",
     "ingredients": [
       "1 taza de harina",
       "2 huevos",
@@ -36,11 +36,11 @@
     ],
     "isPremium": false,
     "stepImages": [
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso1.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso2.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso3.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso4.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/hotcakes_paso5.jpg"
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/hotcakes_paso1.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/hotcakes_paso2.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/hotcakes_paso3.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/hotcakes_paso4.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/hotcakes_paso5.png"
     ]
   },
   {
@@ -69,7 +69,7 @@
         "description": "Acompaña con arroz o pan artesanal."
       }
     ],
-    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta2.png",
+    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/receta2.png",
     "ingredients": [
       "200g de carne de res",
       "1 cebolla",
@@ -79,11 +79,11 @@
     ],
     "isPremium": true,
     "stepImages": [
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso1.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso2.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso3.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso4.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/carne_paso5.jpg"
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/carne_paso1.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/carne_paso2.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/carne_paso3.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/carne_paso4.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/carne_paso5.png"
     ]
   },
   {
@@ -112,7 +112,7 @@
         "description": "Espera unos minutos antes de servir."
       }
     ],
-    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta3.png",
+    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/receta3.png",
     "ingredients": [
       "3 tazas de avena",
       "1 taza de azúcar",
@@ -120,11 +120,11 @@
     ],
     "isPremium": false,
     "stepImages": [
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso1.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso2.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso3.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso4.jpg",
-      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/galletas_paso5.jpg"
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/galletas_paso1.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/galletas_paso2.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/galletas_paso3.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/galletas_paso4.png",
+      "https://raw.githubusercontent.com/VisionGameStudios/margie-content/images/images/galletas_paso5.png"
     ]
   }
 ]
