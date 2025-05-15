@@ -25,7 +25,7 @@
         "description": "Acompaña con miel, frutas o lo que prefieras."
       }
     ],
-    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta1.jpg",
+    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta1.png",
     "ingredients": [
       "1 taza de harina",
       "2 huevos",
@@ -69,7 +69,7 @@
         "description": "Acompaña con arroz o pan artesanal."
       }
     ],
-    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta2.jpg",
+    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta2.png",
     "ingredients": [
       "200g de carne de res",
       "1 cebolla",
@@ -112,7 +112,7 @@
         "description": "Espera unos minutos antes de servir."
       }
     ],
-    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta3.jpg",
+    "imageName": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/images/receta3.png",
     "ingredients": [
       "3 tazas de avena",
       "1 taza de azúcar",
