@@ -41,5 +41,378 @@
       "Vitamina B12"
     ],
     "barcodes": ["7501518463415"]
+  },
+  {
+    "name": "Salchichas FUD para Hot Dog con Pavo",
+    "description": "Salchichas para hot dog elaboradas con carne de pavo",
+    "ingredients": [
+      "Carne de pavo",
+      "Carne de pollo",
+      "Agua",
+      "Proteína de soya",
+      "Fécula",
+      "Almidón Modificado",
+      "Harina de mostaza",
+      "Fibra de soya",
+      "Cloruro de potasio",
+      "Fosfato de Sodio",
+      "Sal yodada",
+      "Lactato de potasio",
+      "Acetato de potasio",
+      "Diacetato de Sodio",
+      "Eritorbato de Sodio",
+      "Saborizantes",
+      "Nitrito de Sodio",
+      "Colorante color Carmín"
+    ],
+    "barcodes": ["7501030450010"]
+  },
+  {
+    "name": "Salchichas de Pavo San Rafael para Hot Dog",
+    "description": "Salchichas de pavo tipo frankfort elaboradas con carne de pavo",
+    "ingredients": [
+      "Carne de pavo",
+      "Agua",
+      "Proteína de soya",
+      "Fécula",
+      "Fibra de soya",
+      "Harina de mostaza",
+      "Sal yodada",
+      "Dextrosa",
+      "Fosfato de Sodio",
+      "Cloruro de potasio",
+      "Saborizantes",
+      "Eritorbato de Sodio",
+      "Extracto de especias",
+      "Diacetato de Sodio",
+      "Nitrito de Sodio",
+      "Colorante color Carmín"
+    ],
+    "barcodes": ["7501040027499"]
+  },
+  {
+    "name": "Salchichas de Pavo Oscar Mayer",
+    "description": "Salchichas tipo frankfurt elaboradas con carne de pavo",
+    "ingredients": [
+      "Carne de pavo",
+      "Agua",
+      "Almidón Modificado",
+      "Proteína de soya",
+      "Dextrosa",
+      "Sal yodada",
+      "Saborizantes",
+      "Saborizante natural a Humo"
+    ],
+    "barcodes": ["8410320295635"]
+  },
+  {
+    "name": "Salchichas Viena Oscar Mayer",
+    "description": "Salchichas tipo Viena elaboradas con carne de pavo, pollo y cerdo",
+    "ingredients": [
+      "Carne de pavo",
+      "Carne de pollo",
+      "Carne de cerdo",
+      "Agua",
+      "Almidón Modificado",
+      "Proteína de soya",
+      "Dextrosa",
+      "Sal yodada",
+      "Saborizantes",
+      "Saborizante natural a Humo"
+    ],
+    "barcodes": ["0608875033620"]
+  },
+  {
+    "name": "Jamón de Pavo FUD Virginia",
+    "description": "Jamón estilo Virginia elaborado con carne de pavo",
+    "ingredients": [
+      "Carne de pavo",
+      "Agua",
+      "Sal yodada",
+      "Fécula",
+      "Dextrosa",
+      "Fosfato de Sodio",
+      "Saborizantes",
+      "Nitrito de Sodio"
+    ],
+    "barcodes": ["7501040005831"]
+  },
+  {
+    "name": "Pechuga de Pavo San Rafael Balance",
+    "description": "Pechuga de pavo rebanada, baja en grasa y Sodio, sin nitritos añadidos",
+    "ingredients": [
+      "Carne de pavo",
+      "Agua",
+      "Sal yodada",
+      "Fécula",
+      "Dextrosa",
+      "Fosfato de Sodio",
+      "Saborizantes",
+      "Nitrito de Sodio"
+    ],
+    "barcodes": ["7501040006753"]
+  },
+  {
+    "name": "Jamón Real de Pavo Rebanadas Sándwich",
+    "description": "Jamón de pavo cocido tipo Virginia, rebanado para sándwich. Ideal para comidas ligeras y nutritivas.",
+    "ingredients": [
+      "Carne de pavo",
+      "Muslo de pavo",
+      "Agua",
+      "Sal yodada",
+      "Azúcar",
+      "Fosfatos",
+      "Carragenina",
+      "Bicarbonato de Sodio",
+      "Colorante color Carmín",
+      "Conservador",
+      "Nitrito de Sodio",
+      "Saborizantes",
+      "Extracto de especias",
+      "Vitamina B12"
+    ],
+    "barcodes": ["7501001143022"]
+  },
+  {
+    "name": "Jamón de Pavo FUD Cuida-t+ Virginia",
+    "description": "Jamón de pavo estilo Virginia, bajo en grasa y reducido en Sodio, ideal para una alimentación saludable.",
+    "ingredients": [
+      "Muslo de pavo",
+      "Agua",
+      "Proteína de soya",
+      "Almidón Modificado",
+      "Maltodextrina",
+      "Cloruro de potasio",
+      "Carragenina",
+      "Saborizantes",
+      "Sal yodada",
+      "Azúcar",
+      "Fosfato de Sodio",
+      "Eritorbato de Sodio",
+      "Bicarbonato de Sodio",
+      "Nitrito de Sodio",
+      "Colorante color Carmín"
+    ],
+    "barcodes": ["7501040023729"]
+  },
+  {
+    "name": "Yoghurt Griego Oikos Natural Sin Azúcar",
+    "description": "Yoghurt griego natural sin azúcar añadido, ideal para una alimentación saludable.",
+    "ingredients": [
+      "Leche Descremada Pasteurizada",
+      "Cultivos Lácticos"
+    ],
+    "barcodes": ["7501055332265"]
+  },
+  {
+    "name": "Agua Tónica Schweppes",
+    "description": "Agua tónica con sabor a quinina.",
+    "ingredients": [
+      "Agua Carbonatada",
+      "Jarabe de Maíz de Alta Fructosa",
+      "Ácido Cítrico",
+      "Quinina",
+      "Benzoato de Sodio"
+    ],
+    "barcodes": [
+      "7501073825208",
+      "7501073844056",
+      "756058147074"
+    ]
+  },
+  {
+    "name": "Bebida Energética Monster",
+    "description": "Bebida energética con cafeína y taurina.",
+    "ingredients": [
+      "Agua Carbonatada",
+      "Azúcar",
+      "Glucosa Añadida",
+      "Ácido Cítrico",
+      "Saborizantes Naturales",
+      "Citrato de Sodio",
+      "L-Carnitina Añadida",
+      "Ácido L-Tartárico",
+      "Cafeína",
+      "Ácido Sórbico",
+      "Ácido Benzoico",
+      "Extracto de Piel de Uva",
+      "Vitamina B3",
+      "Sucralosa",
+      "Inositol",
+      "Vitamina B6",
+      "Vitamina B2",
+      "Maltodextrina",
+      "Vitamina B12"
+    ],
+    "barcodes": [
+      "0708470359160",
+      "0708470359238",
+      "0070847035985",
+      "0708470359193",
+      "0708470359254",
+      "0070847039281"
+    ]
+  },
+  {
+    "name": "Bebida Energética Red Bull",
+    "description": "Bebida energética con cafeína y taurina.",
+    "ingredients": [
+      "Agua Carbonatada",
+      "Sacarosa",
+      "Glucosa Añadida",
+      "Ácido Cítrico",
+      "Saborizantes Artificiales",
+      "Bicarbonato de Sodio",
+      "Carbonato de Magnesio",
+      "Colorante Caramelo N°1",
+      "Cafeína"
+    ],
+    "barcodes": [
+      "9002490100094",
+      "9002490100094",
+      "9002490211486",
+      "9002490217754"
+    ]
+  },
+  {
+    "name": "Jalapeños Rellenos de Queso Crema Brew City",
+    "description": "Jalapeños rellenos de queso crema, empanizados y fritos.",
+    "ingredients": [
+      "Crema Acidificada Reconstituida",
+      "Leche Pasteurizada",
+      "Cultivos de Queso",
+      "Sal",
+      "Goma Garrofín",
+      "Jalapeños Verdes",
+      "Pimientos",
+      "Agua",
+      "Ácido Acético",
+      "Cloruro de Calcio",
+      "Benzoato de Sodio",
+      "Harina de Trigo",
+      "Niacina",
+      "Hierro",
+      "Mononitrato de Tiamina",
+      "Riboflavina",
+      "Ácido Fólico",
+      "Aceite Vegetal de Soya",
+      "Aceite Vegetal de Canola",
+      "Almidón Modificado de Maíz",
+      "Ajo Deshidratado",
+      "Alginoato de Sodio",
+      "Cebolla Deshidratada",
+      "Dextrosa",
+      "Especias",
+      "Extracto de Pimentón",
+      "Bicarbonato de Sodio",
+      "Pirofosfato Ácido de Sodio",
+      "Fosfato de Monocalcio",
+      "Leche Desnatada",
+      "Levadura",
+      "Sulfato de Calcio",
+      "Cloruro de Anomio",
+      "Saborizantes Naturales",
+      "Vinagre"
+    ],
+    "barcodes": ["7503023807388"]
+  },
+  {
+    "name": "Ravioles de Espinaca y Queso Ricotta Members Mark",
+    "description": "Ravioles rellenos de espinaca y queso ricotta, ideales para una comida rápida y deliciosa.",
+    "ingredients": [
+      "Suero de Leche",
+      "Leche",
+      "Crema",
+      "Vinagre",
+      "Espinaca",
+      "Harina de Trigo",
+      "Levadura",
+      "Sal",
+      "Leche Pasteurizada",
+      "Enzimas",
+      "Almidón de Maíz",
+      "Almidón de Papa",
+      "Fibra Dietética Vegetal",
+      "Ajo",
+      "Especias",
+      "Saborizantes Naturales",
+      "Hidrolizado de Levadura",
+      "Harina de Trigo Durum",
+      "Huevo",
+      "Agua"
+    ],
+    "barcodes": ["0000000000000"]
+  },
+  {
+    "name": "Pan Molido Members Mark",
+    "description": "Pan molido ideal para empanizar.",
+    "ingredients": [
+      "Harina de Trigo",
+      "Sal Yodada",
+      "Levadura Saccaromyces Cerevisiae",
+      "Ácido Sórbico"
+    ],
+    "barcodes": ["0078742046211"]
+  },
+  {
+    "name": "1·2·3 Aceite Vegetal",
+    "description": "Aceite vegetal para cocinar y freír.",
+    "ingredients": [
+      "Aceite Vegetal de Canola",
+      "Aceite Vegetal de Girasol",
+      "Aceite Vegetal de Maíz",
+      "TBHQ"
+    ],
+    "barcodes": [
+      "0075005443000",
+      "0075002343000",
+      "7501026000119"
+    ]
+  },
+  {
+    "name": "Gran Tradición Aceite Vegetal",
+    "description": "Aceite Vegetal para cocinar y freír",
+    "ingredients": [
+      "Aceite Vegetal de Soya",
+      "Aceite Vegetal de Canola"
+    ],
+    "barcodes": [
+      "7501039123287",
+      "7501039123898",
+      "7501039123270"
+    ]
+  },
+  {
+    "name": "Aceite Nutrioli",
+    "description": "Aceite puro de Soya",
+    "ingredients": [
+      "Aceite Vegetal de Soya"
+    ],
+    "barcodes": [
+      "7501039121993",
+      "7501039124901",
+      "7501039126745",
+      "7501039120149",
+      "7501039122488"
+    ]
+  },
+  {
+    "name": "Aceite PAM original para cocinar",
+    "description": "Aceite Vegetal en espray para cocinar y freír",
+    "ingredients": [
+      "Aceite Vegetal de Canola",
+      "Propano",
+      "Isobutano",
+      "Lecitina de Soya",
+      "Agua",
+      "Ácido Graso de Soya",
+      "Extracto de Romero"
+    ],
+    "barcodes": [
+      "064144030323",
+      "064144030316",
+      "064144030644",
+      "064144030941"
+    ]
   }
 ]
