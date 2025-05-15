@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Ejemplo",
     "content": "Contenido...",
-    "imageURL": "saludable.png",
+    "imageURL": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/saludable.png",
     "date": "2024-05-14T12:00:00Z"
   }
 ]
