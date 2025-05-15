@@ -1,0 +1,891 @@
+[
+  {
+    "id": "UUID",
+    "name": "Carne de pavo",
+    "description": "Una carne magra rica en proteínas, baja en grasas y adecuada para una dieta equilibrada.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Agua",
+    "description": "Un componente esencial para la vida, utilizado como base en muchos alimentos procesados.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Proteína de soya",
+    "description": "Una fuente vegetal de proteínas, utilizada como sustituto de la carne en muchos productos.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Fécula",
+    "description": "Un carbohidrato utilizado como espesante en alimentos procesados. Consumir con moderación.",
+    "isHealthy": false,
+    "points": 4
+  },
+  {
+    "id": "UUID",
+    "name": "Fibra de soya",
+    "description": "Un ingrediente rico en fibra que ayuda a la digestión y mejora la salud intestinal.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Harina de mostaza",
+    "description": "Un condimento en polvo que aporta sabor y contiene antioxidantes naturales.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Sal Yodada",
+    "description": "Un mineral esencial para la salud, pero su consumo excesivo puede causar hipertensión.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Dextrosa",
+    "description": "Un tipo de azúcar simple utilizado como endulzante. Consumir en pequeñas cantidades.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Fosfato de Sodio",
+    "description": "Un humectante utilizado en alimentos procesados. Consumir con moderación.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Cloruro de potasio",
+    "description": "Un acentuador de sabor que también se utiliza como sustituto de la sal.",
+    "isHealthy": true,
+    "points": 6
+  },
+  {
+    "id": "UUID",
+    "name": "Saborizantes",
+    "description": "Compuestos utilizados para mejorar el sabor de los alimentos. Pueden ser naturales o artificiales.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Eritorbato de Sodio",
+    "description": "Un antioxidante utilizado para preservar el color y la frescura de los alimentos procesados.",
+    "isHealthy": false,
+    "points": 4
+  },
+  {
+    "id": "UUID",
+    "name": "Extracto de especias",
+    "description": "Un concentrado de especias naturales que aporta sabor y antioxidantes.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Diacetato de Sodio",
+    "description": "Un conservador utilizado para prevenir el crecimiento de bacterias en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Nitrito de Sodio",
+    "description": "Un agente de retención de color utilizado en carnes procesadas. Consumir con moderación.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Colorante color Carmín",
+    "description": "Un colorante natural derivado de insectos, utilizado para dar color rojo a los alimentos.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Almidón Modificado",
+    "description": "Un almidón tratado para mejorar su funcionalidad en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Condimentos",
+    "description": "Mezcla de especias y hierbas utilizadas para dar sabor a los alimentos.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Conservador",
+    "description": "Sustancia química utilizada para prevenir el deterioro de los alimentos.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Fosfatos",
+    "description": "Compuestos utilizados como conservantes y para mejorar la textura de los alimentos.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "TBHQ",
+    "description": "Un antioxidante sintético utilizado para prevenir la rancidez en grasas y aceites pero hace daño al organismo.",
+    "isHealthy": false,
+    "points": 0
+  },
+  {
+    "id": "UUID",
+    "name": "Colorante",
+    "description": "Sustancia utilizada para dar color a los alimentos. Puede ser natural o artificial.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Vitamina B12",
+    "description": "Una vitamina esencial para la salud del sistema nervioso y la formación de glóbulos rojos.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Carne de pollo",
+    "description": "Carne blanca rica en proteínas, baja en grasas y adecuada para una dieta equilibrada.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Lactato de potasio",
+    "description": "Un conservador utilizado para prevenir el crecimiento de bacterias en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Acetato de potasio",
+    "description": "Un conservador utilizado para prevenir el crecimiento de bacterias en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Muslo de pavo",
+    "description": "Parte del ave rica en proteínas y un poco más grasa que la pechuga, pero sigue siendo una opción saludable.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Azúcar",
+    "description": "Endulzante común que aporta energía rápida. Consumir en cantidades moderadas.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Carragenina",
+    "description": "Estabilizante derivado de algas rojas, usado para mejorar la textura en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Bicarbonato de Sodio",
+    "description": "Agente leudante y regulador de acidez. Se usa en productos horneados y carnes procesadas.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Maltodextrina",
+    "description": "Un carbohidrato utilizado como espesante y fuente de energía rápida.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Saborizante natural a Humo",
+    "description": "Un saborizante que imita el sabor ahumado, utilizado en carnes y productos vegetales.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Leche Descremada Pasteurizada",
+    "description": "Leche baja en grasa, rica en proteínas y calcio, ideal para una dieta equilibrada.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Cultivos Lácticos",
+    "description": "Bacterias beneficiosas utilizadas en la fermentación de productos lácteos.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Glucosa Añadida",
+    "description": "Un tipo de azúcar simple utilizado como fuente de energía rápida en bebidas y alimentos procesados.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Saborizantes Naturales",
+    "description": "Compuestos derivados de fuentes naturales para mejorar el sabor de los alimentos.",
+    "isHealthy": true,
+    "points": 6
+  },
+  {
+    "id": "UUID",
+    "name": "Citrato de Sodio",
+    "description": "Un regulador de acidez y estabilizador utilizado en bebidas y alimentos procesados.",
+    "isHealthy": true,
+    "points": 5
+  },
+  {
+    "id": "UUID",
+    "name": "L-Carnitina Añadida",
+    "description": "Un compuesto que es muy común en bebidas energéticas, es mejor evitarlo ya que es agregado.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Ácido L-Tartárico",
+    "description": "Un compuesto utilizado como regulador de acidez en bebidas y alimentos.",
+    "isHealthy": true,
+    "points": 5
+  },
+  {
+    "id": "UUID",
+    "name": "Cafeína",
+    "description": "Un estimulante natural que mejora el estado de alerta y el rendimiento físico.",
+    "isHealthy": true,
+    "points": 6
+  },
+  {
+    "id": "UUID",
+    "name": "Ácido Sórbico",
+    "description": "Un conservador utilizado para prevenir el crecimiento de moho y levaduras en alimentos.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Ácido Benzoico",
+    "description": "Un conservador utilizado para prevenir el crecimiento de bacterias en alimentos y bebidas.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Extracto de Piel de Uva",
+    "description": "Un antioxidante natural que aporta beneficios para la salud y mejora el sabor.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Vitamina B3",
+    "description": "Una vitamina esencial para el metabolismo energético y la salud de la piel.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Sucralosa",
+    "description": "Un edulcorante artificial sin calorías utilizado como sustituto del azúcar.",
+    "isHealthy": false,
+    "points": 4
+  },
+  {
+    "id": "UUID",
+    "name": "Inositol",
+    "description": "Un compuesto que mejora la salud celular y es común en bebidas energéticas.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Vitamina B6",
+    "description": "Una vitamina esencial para el metabolismo de proteínas y la función cerebral.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Vitamina B2",
+    "description": "Una vitamina esencial para la producción de energía y la salud de la piel.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Leche Pasteurizada",
+    "description": "Leche tratada para eliminar bacterias, rica en proteínas y calcio.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Sal",
+    "description": "Un mineral esencial para el cuerpo y le da sabor a los alimentos.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Cultivos de Queso",
+    "description": "Mezcla de bacterias utilizadas en la producción de quesos y productos lácteos.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Goma Garrofín",
+    "description": "Un espesante natural derivado de las semillas de algarrobo, utilizado en alimentos procesados.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Jalapeños Verdes",
+    "description": "Un tipo de chile picante que aporta sabor y antioxidantes a los alimentos.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Pimientos",
+    "description": "Un vegetal rico en vitaminas y antioxidantes, utilizado en ensaladas y platos cocinados.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Ácido Acético",
+    "description": "Un ácido orgánico utilizado como conservante y saborizante en alimentos.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Cloruro de Calcio",
+    "description": "Un compuesto utilizado como conservante y regulador de textura en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Ácido Cítrico",
+    "description": "Un ácido natural utilizado como conservante y saborizante en alimentos y bebidas.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Benzoato de Sodio",
+    "description": "Un conservador utilizado para prevenir el crecimiento de bacterias y hongos en alimentos.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Harina de Trigo",
+    "description": "Un ingrediente básico en la panadería, rico en carbohidratos y proteínas.",
+    "isHealthy": true,
+    "points": 6
+  },
+  {
+    "id": "UUID",
+    "name": "Niacina",
+    "description": "Una vitamina esencial para el metabolismo energético y la salud de la piel.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Ácido Láctico",
+    "description": "Un ácido orgánico utilizado como conservante y saborizante en alimentos.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Hierro",
+    "description": "Un mineral esencial para la formación de glóbulos rojos y el transporte de oxígeno en el cuerpo.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Mononitrato de Tiamina",
+    "description": "Una forma de vitamina B1 utilizada como suplemento y en alimentos procesados.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Riboflavina",
+    "description": "Una vitamina B esencial para la producción de energía y la salud de la piel.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Ácido Fólico",
+    "description": "Una vitamina B esencial para la formación de glóbulos rojos y la salud celular.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Ácido Ascórbico",
+    "description": "Una vitamina antioxidante que ayuda a proteger las células del daño y mejora la salud inmunológica.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Soya",
+    "description": "Un aceite vegetal comúnmente utilizado en la cocina y en alimentos procesados.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Canola",
+    "description": "Un aceite vegetal bajo en grasas saturadas, utilizado en la cocina y en alimentos procesados.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Almidón Modificado de Maíz",
+    "description": "Un almidón tratado para mejorar su funcionalidad en alimentos procesados.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Ajo Deshidratado",
+    "description": "Un condimento deshidratado que aporta sabor y propiedades antioxidantes a los alimentos.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Cebolla Deshidratada",
+    "description": "Un condimento deshidratado que aporta sabor y propiedades antioxidantes a los alimentos.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Alginoato de Sodio",
+    "description": "Un espesante natural derivado de algas, utilizado en alimentos procesados.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Especias",
+    "description": "Mezcla de hierbas y especias utilizadas para dar sabor a los alimentos.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Extracto de Pimentón",
+    "description": "Un colorante natural derivado del pimentón, utilizado para dar color y sabor a los alimentos.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Pirofosfato Ácido de Sodio",
+    "description": "Un agente leudante utilizado en productos horneados y alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Fosfato de Monocalcio",
+    "description": "Un agente leudante utilizado en productos horneados y alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Leche Desnatada",
+    "description": "Leche baja en grasa, rica en proteínas y calcio, ideal para una dieta equilibrada.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Levadura",
+    "description": "Un microorganismo utilizado como agente leudante en productos horneados.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Proteína de Suero de Leche",
+    "description": "Una proteína de alta calidad derivada del suero de leche, utilizada en suplementos y alimentos.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Sulfato de Calcio",
+    "description": "Un compuesto utilizado como agente antiaglomerante y regulador de textura en alimentos.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Cloruro de Anomio",
+    "description": "Un compuesto utilizado como agente antiaglomerante y regulador de textura en alimentos.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Vinagre",
+    "description": "Un ácido natural utilizado como conservante y saborizante en alimentos.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Agua Carbonatada",
+    "description": "Agua con gas utilizada como base en bebidas y alimentos procesados.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Jarabe de Maíz de Alta Fructosa",
+    "description": "Un edulcorante comúnmente utilizado en alimentos procesados, alto en fructosa y calorías.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Quinina",
+    "description": "Un compuesto utilizado como saborizante en bebidas, especialmente en tónicas.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Sacarosa",
+    "description": "Un tipo de azúcar comúnmente utilizado como endulzante en alimentos y bebidas.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Saborizantes Artificiales",
+    "description": "Compuestos sintéticos utilizados para mejorar el sabor de los alimentos.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Carbonato de Magnesio",
+    "description": "Un compuesto utilizado como antiaglomerante y regulador de acidez en alimentos.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Colorante Caramelo N°1",
+    "description": "Un colorante artificial utilizado para dar color a los alimentos y bebidas.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Colorante Caramelo N°4",
+    "description": "Un colorante artificial utilizado para dar color a los alimentos y bebidas.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Colorante Caramelo N°3",
+    "description": "Un colorante artificial utilizado para dar color a los alimentos y bebidas.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Colorante Caramelo N°2",
+    "description": "Un colorante artificial utilizado para dar color a los alimentos y bebidas.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Colorante Caramelo N°5",
+    "description": "Un colorante artificial utilizado para dar color a los alimentos y bebidas.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Colorante Caramelo N°6",
+    "description": "Un colorante artificial utilizado para dar color a los alimentos y bebidas.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Colorante Caramelo N°7",
+    "description": "Un colorante artificial utilizado para dar color a los alimentos y bebidas.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Suero de Leche",
+    "description": "Un subproducto de la producción de queso, rico en proteínas y utilizado en suplementos.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Leche",
+    "description": "Un líquido nutritivo producido por mamíferos, rico en proteínas, calcio y vitaminas.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Crema",
+    "description": "Un producto lácteo rico en grasas, utilizado en salsas y postres.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Espinaca",
+    "description": "Una verdura de hoja verde rica en vitaminas y minerales, ideal para ensaladas y platos cocinados.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Enzimas",
+    "description": "Compuestos utilizados para mejorar la textura y el sabor de los alimentos.",
+    "isHealthy": true,
+    "points": 6
+  },
+  {
+    "id": "UUID",
+    "name": "Almidón de Maíz",
+    "description": "Un carbohidrato utilizado como espesante en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Almidón de Papa",
+    "description": "Un carbohidrato utilizado como espesante en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Almidón de Arroz",
+    "description": "Un carbohidrato utilizado como espesante en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Fibra Dietética Vegetal",
+    "description": "Un tipo de fibra vegetal que ayuda a la digestión y mejora la salud intestinal.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Ajo",
+    "description": "Un condimento utilizado para dar sabor a los alimentos, con propiedades antioxidantes y antiinflamatorias.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Cebolla",
+    "description": "Un vegetal utilizado para dar sabor a los alimentos, con propiedades antioxidantes y antiinflamatorias.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Hidrolizado de Levadura",
+    "description": "Un compuesto utilizado como potenciador de sabor en alimentos procesados.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Harina de Trigo Durum",
+    "description": "Un tipo de harina de trigo utilizada en la producción de pasta y productos horneados.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Harina de Trigo Integral",
+    "description": "Un tipo de harina que contiene el grano entero, rica en fibra y nutrientes.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Huevo",
+    "description": "Un alimento rico en proteínas y nutrientes, utilizado en una variedad de platos.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Yema de Huevo",
+    "description": "La parte amarilla del huevo, rica en grasas saludables y nutrientes.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Clara de Huevo",
+    "description": "La parte blanca del huevo, rica en proteínas y baja en grasas.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Oliva",
+    "description": "Un aceite vegetal rico en grasas saludables, utilizado en la cocina mediterránea.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Palma",
+    "description": "Un aceite vegetal utilizado en alimentos procesados, alto en grasas saturadas.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Cártamo",
+    "description": "Un aceite vegetal utilizado en alimentos procesados, alto en grasas poliinsaturadas.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Girasol",
+    "description": "Un aceite vegetal utilizado en alimentos procesados, alto en grasas poliinsaturadas.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Coco",
+    "description": "Un aceite vegetal utilizado en alimentos procesados, alto en grasas saturadas.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Sésamo",
+    "description": "Un aceite vegetal utilizado en la cocina asiática, rico en grasas saludables.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Linaza",
+    "description": "Un aceite vegetal rico en ácidos grasos omega-3, utilizado en alimentos y suplementos.",
+    "isHealthy": true,
+    "points": 9
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Canola",
+    "description": "Un aceite vegetal utilizado en alimentos procesados, bajo en grasas saturadas.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Aceite Vegetal de Maíz",
+    "description": "Un aceite vegetal utilizado en alimentos procesados, alto en grasas poliinsaturadas.",
+    "isHealthy": false,
+    "points": 2
+  },
+  {
+    "id": "UUID",
+    "name": "Levadura Saccaromyces Cerevisiae",
+    "description": "Un tipo de levadura utilizada en la fermentación de productos horneados y bebidas.",
+    "isHealthy": true,
+    "points": 8
+  },
+  {
+    "id": "UUID",
+    "name": "Propano",
+    "description": "Un gas que forma parte de los hidrocarburos. Es incoloro, sin olor (aunque le agregan un olor artificial para detectar fugas), y se usa principalmente como combustible.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Isobutano",
+    "description": "Gas inflamable y un hidrocarburo que se usa como propulsor en aerosoles y refrigerantes. No es comestible y puede ser peligroso si se inhala.",
+    "isHealthy": false,
+    "points": 1
+  },
+  {
+    "id": "UUID",
+    "name": "Lecitina de Soya",
+    "description": "Grasa natural extraída de los granos de soya. Se usa como emulsionante y antioxidante en muchos alimentos procesados. También aporta colina, un nutriente beneficioso para el cerebro.",
+    "isHealthy": true,
+    "points": 7
+  },
+  {
+    "id": "UUID",
+    "name": "Ácido Graso de Soya",
+    "description": "Grasa derivada del aceite de soya, comúnmente usada en alimentos procesados. Su valor nutricional depende del tipo de procesamiento, y puede contener grasas no saludables.",
+    "isHealthy": false,
+    "points": 3
+  },
+  {
+    "id": "UUID",
+    "name": "Extracto de Romero",
+    "description": "Concentrado natural de las hojas del romero. Funciona como conservador, antioxidante y aromatizante. Además, aporta beneficios saludables por sus compuestos naturales.",
+    "isHealthy": true,
+    "points": 9
+  }
+]
