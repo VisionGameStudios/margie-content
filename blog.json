@@ -4,13 +4,13 @@
     "title": "Ejemplo",
     "content": "Contenido...",
     "imageURL": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/saludable.png",
-    "date": "2024-05-14T12:00:00Z"
+    "date": "2025-05-14T12:00:00Z"
   },
   {
     "id": "2",
-    "title": "Ejemplo",
-    "content": "Contenido...",
+    "title": "Ejemplo 2",
+    "content": "Contenido... 2",
     "imageURL": "https://raw.githubusercontent.com/VisionGameStudios/margie-content/main/saludable.png",
-    "date": "2024-05-14T12:00:00Z"
+    "date": "2025-06-14T12:00:00Z"
   }
 ]
